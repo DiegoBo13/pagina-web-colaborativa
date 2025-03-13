@@ -11,6 +11,17 @@ body {
     }
     
 }
+/*Este estilo es para el boton.
+Agregado por AndyES-bot*/
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
 
 header {
     background-color: #333;
